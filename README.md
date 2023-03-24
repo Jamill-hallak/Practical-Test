@@ -1,6 +1,6 @@
 # Practical-Test
 Staking Dapp.
-#description :
+# description :
 This is a React component written in JavaScript that allows users to interact with an Ethereum staking pool. The component is using the ethers.js library to interact with the Ethereum network and the Web3Provider to connect to the user's Ethereum wallet. The component initializes the staking contract and staking token contract, gets the staking token balance, the staking data, the claim balance and the reward amount. Users can stake tokens, unstake tokens and claim rewards. There is also a function that calculates the Annual Percentage Yield (APY) based on the user's input.
 
 The component uses the useState hook to store various state variables such as the provider, wallet, staking contract, staking token contract, staking token balance, the reward balance and the amount to stake. The useEffect hook is used to initialize the component, refetch data, and update data every 10 seconds. The useCallback hook is used to create a memoized callback for handling changes to the APY input field and button click event.
