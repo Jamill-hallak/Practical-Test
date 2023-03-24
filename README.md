@@ -8,7 +8,7 @@ The component uses the useState hook to store various state variables such as th
 Overall, this component provides an easy-to-use interface for users to interact with the Ethereum staking pool, stake and unstake tokens, claim rewards and calculate their APY.
 
 
-#Installation
+# Installation
 To get started with this project, follow these steps:
 
 Download the project files by clicking on the "Download ZIP" button or by cloning the repository using Git.
@@ -18,6 +18,6 @@ In the terminal, run npm i to install the project's dependencies.
 Once the dependencies are installed, run npm start to start the development server.
 That's it! You should now be able to run the project on your local machine. If you encounter any issues during the installation process, feel free to raise an issue in the project's GitHub repository.
 
-#Aquick paragraph :
+# Aquick paragraph :
 There are several ways to generate rewards for users, but two possible methods are sending staking tokens as a reward and allowing users to mint their own tokens. While sending staking tokens as a reward involves sending previously minted and staked tokens to users, allowing users to mint their own tokens enables them to create tokens based on their contribution to the network. Ultimately, the choice of method depends on the specific use case and the desired outcome of the reward system. It's important to thoroughly consider the benefits and drawbacks of each method and ensure that the reward system is transparent, fair, and aligned with the overall goals of the network. 
 The task was long and the time was short, which made completing it a challenge. Bugs and missed elements added to the complexity. To overcome these obstacles, I prioritized critical elements and broke the task down into manageable components. Taking breaks and working methodically helped me maintain focus and avoid burnout. Despite the challenges, the limited time frame motivated me to work efficiently and productively.
