@@ -1,4 +1,7 @@
 # Practical-Test
+![Dapp](https://user-images.githubusercontent.com/79945615/227840407-39070a3f-524a-40cf-9161-363f2d587630.png)
+![5](https://user-images.githubusercontent.com/79945615/227840436-86fbaa4b-8ebc-4238-b3df-657f3f66897d.png)
+
 Staking Dapp.
 # description :
 This is a React component written in JavaScript that allows users to interact with an Ethereum staking pool. The component is using the ethers.js library to interact with the Ethereum network and the Web3Provider to connect to the user's Ethereum wallet. The component initializes the staking contract and staking token contract, gets the staking token balance, the staking data, the claim balance and the reward amount. Users can stake tokens, unstake tokens and claim rewards. There is also a function that calculates the Annual Percentage Yield (APY) based on the user's input.
